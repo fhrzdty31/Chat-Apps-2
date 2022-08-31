@@ -1,16 +1,29 @@
-# chat_apps_2
+# Chat Apps v2
+# Dismissible
+## android studio : Flutter(Dart)
+### Fahreza Ditya Alfandry 19 / XII RPL 3
 
-A new Flutter project.
+<details>
+    <summary>Tab Chat</summary>
 
-## Getting Started
+![Tab Chat](https://github.com/fhrzdty31/Chat-Apps-2/blob/25f9ce925cb9f46312c7d52e6db77d8476a91841/screenshot/Screenshot%20(1).jpg)
 
-This project is a starting point for a Flutter application.
+</details>
+<details>
+    <summary>Dismissible for Delete</summary>
 
-A few resources to get you started if this is your first Flutter project:
+![Dismissible for Delete](https://github.com/fhrzdty31/Chat-Apps-2/blob/25f9ce925cb9f46312c7d52e6db77d8476a91841/screenshot/Screenshot%20(2).jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</details>
+<details>
+    <summary>Confirmation</summary>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Confirmation](https://github.com/fhrzdty31/Chat-Apps-2/blob/25f9ce925cb9f46312c7d52e6db77d8476a91841/screenshot/Screenshot%20(3).jpg)
+
+</details>
+<details>
+    <summary>Tab Chat after Dismissible</summary>
+
+![Tab Chat after Dismissible](https://github.com/fhrzdty31/Chat-Apps-2/blob/25f9ce925cb9f46312c7d52e6db77d8476a91841/screenshot/Screenshot%20(4).jpg)
+
+</details>
